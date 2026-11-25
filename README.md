@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/Hellboys87/one-line-one-laugh/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
 [![reward](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/Hellboys87/one-line-one-laugh/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
 
-A single original funny line, written to `entry.txt` — one accountant, one piece of advice, four currencies of regret.
+A single original funny line, written to `entry.txt` — one accountant, one piece of advice, four currencies of regret plus a dog coin.
 
 ## Run it
 
